@@ -1,4 +1,4 @@
-# Hi there👋! I'm [Sahil Goyal] 🙋‍♂️
+# Hi there👋! I'm Sahil Goyal 🙋‍♂️
 
 ![Profile views](https://gpvc.arturio.dev/sahilgoyals1999)
 
@@ -9,7 +9,7 @@
 - 🌐 Full Stack Web Developer.
 - 👨‍💻 Mostly working on ❤️ReactJS ❤️NodeJS ❤️MongoDB!
 - 📱 Little bit exploring Mobile development too using ❤️React-Native.
-- Loves Music 🎵 and Movie 🎥.
+- Loves Music 🎵 and Movies 🎥.
 - Proud 🇮🇳.
 
 <details>
