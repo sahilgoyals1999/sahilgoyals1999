@@ -25,5 +25,5 @@
 - Always want to experience new things and optimistic about the results.
 - Creative and hardworking Web Developer with good Coding skills too.
 
-[![Linkedin](https://img.shields.io/badge/-sahilgoyal-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sahil-goyal-138b96175/)
-[![Instagram](https://img.shields.io/badge/-sahil.goyal25-black?style=for-the-badge&logo=instagram)](https://instagram.com/sahil.goyal25/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sahil-goyal-138b96175/)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/sahil.goyal25/)
