@@ -14,7 +14,8 @@
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilgoyals1999&count_private=true&show_icons=true&include_all_commits=true" alt="Sahil Goyal | Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgoyals1999&hide=Objective-C,Ruby&theme=radical" alt="Sahil Goyal | Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilgoyals1999&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Sahil Goyal | Stats" />
 </details>
 
 ---
