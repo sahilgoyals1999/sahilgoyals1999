@@ -1,19 +1,20 @@
 # Hi there👋! I'm Sahil Goyal 🙋‍♂️
 
-![Profile views](https://gpvc.arturio.dev/sahilgoyals1999)
+![visitors](https://gpvc.arturio.dev/sahilgoyals1999)
 
 #### 🎍 Welcome to my hub 👨‍💻
 
 - 👨‍🎓 3rd-year Computer Engineering B.Tech Student.
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 🌐 Full Stack Web Developer.
-- 👨‍💻 Mostly working on ❤️ReactJS ❤️NodeJS ❤️MongoDB!
-- 📱 Little bit exploring Mobile development too using ❤️React-Native.
-- Loves Music 🎵 and Movies 🎥.
+- 👨‍💻 Mostly working on ReactJS, NodeJS, MongoDB!
+- 📱 Little bit exploring Mobile development too using React-Native.
+- Loves Music 🎵 and Movies 🎬.
 - Proud 🇮🇳.
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
+  <hr/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgoyals1999&hide=Objective-C,Ruby&theme=radical" alt="Sahil Goyal | Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=sahilgoyals1999&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Sahil Goyal | Stats" />
 </details>
