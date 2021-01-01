@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilgoyals1999&hide=Ruby,Objective-C&show_icons=true&locale=en&layout=compact" alt="sahilgoyals1999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilgoyals1999&count_private=true&show_icons=true&locale=en" alt="sahilgoyals1999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgoyals1999&" alt="sahilgoyals1999" /></p>
